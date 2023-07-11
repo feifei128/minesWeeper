@@ -14,3 +14,7 @@ html.dark {
 *::-webkit-scrollbar{
   display: none;
 }
+
+.button {
+  background-color: #c64053;
+}

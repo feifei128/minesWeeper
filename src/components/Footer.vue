@@ -4,7 +4,9 @@
       <div dark:i-carbon-moon i-carbon-sun />
     </button>
 
-    <a icon-btn i-carbon-logo-github rel="noreferrer" href="https://github.com/XXGGG/XGGame-Minesweeper" target="_blank"
-      title="GitHub" />
+    <a
+      icon-btn i-carbon-logo-github rel="noreferrer" href="https://github.com/feifei128/minesWeeper" target="_blank"
+      title="GitHub"
+    />
   </nav>
 </template>
