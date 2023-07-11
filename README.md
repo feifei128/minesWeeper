@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="https://feifei128.github.io/minesWeeper/"><b>开始游戏</b></a>
+<a href="https://joyful-monstera-06e5b3.netlify.app"><b>开始游戏</b></a>
 </p>
 
 <br>
